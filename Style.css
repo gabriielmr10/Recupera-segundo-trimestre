@@ -5,6 +5,10 @@ body {
     background-color: #cccccc;
 }
 
+#nj { 
+    width: 100%
+}
+    
 em strong {
     color: red
 }
