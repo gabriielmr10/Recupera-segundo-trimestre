@@ -1,0 +1,15 @@
+p{
+    text-align:center 
+}
+body {
+    background-color: #cccccc;
+}
+
+em strong {
+    color: red
+}
+
+#Protagonista {
+   color: blue;
+   text-align: left;
+}
